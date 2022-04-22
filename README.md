@@ -2,13 +2,13 @@
 <h3 align="center">Congratulations! You got here</h3>
 <h4>About me:</h4>
 <br>
-Discord: `Haft#1429`
+Discord: <strong>Haft#1429</strong>
 <br>
-Matrix: `haft:matrix.org`
+Matrix: <strong>haft:matrix.org</strong>
 <br>
-** - Rustician**
+<strong> - Rustician</strong>
 <br>
-** - Arch Linux User**
+<strong> - Arch Linux User</strong>
 <br>
 
 
