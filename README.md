@@ -1,9 +1,13 @@
 <h1 align="center">Hello, I'm Haft</h1>
 <h3 align="center">Congratulations! You got here</h3>
 <h4>About me:</h4>
+<br>
 Discord: `Haft#1429`
+<br>
 Matrix: `haft:matrix.org`
+<br>
 ** - Rustician**
+<br>
 ** - Arch Linux User**
 <br>
 
