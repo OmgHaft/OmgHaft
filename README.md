@@ -6,7 +6,7 @@ Discord: <strong>Haft#1429</strong>
 <br>
 Matrix: <strong>haft:matrix.org</strong>
 <br>
-<strong> - Rustician</strong>
+<strong> - Rustacean</strong>
 <br>
 <strong> - Arch Linux User</strong>
 <br>
