@@ -2,7 +2,7 @@
 <h3 align="center">Congratulations! You got here</h3>
 <h4>About me:</h4>
 <br>
-Discord: <strong>Haft#0001</strong>
+Discord: <strong>Haft#8516</strong>
 <br>
 Matrix: <strong>haft:matrix.org</strong>
 <br>
